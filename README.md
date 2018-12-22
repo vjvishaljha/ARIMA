@@ -19,3 +19,6 @@ The parameters of the ARIMA model are defined as follows:
  
    
 #   The dataset is available in the dataset folder.
+
+
+# Our goal is to predict the future car sales using the ARIMA model
