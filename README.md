@@ -16,6 +16,6 @@ The parameters of the ARIMA model are defined as follows:
     q: The size of the moving average window, also called the order of moving average
     
    For Further Reading Regarding ARIMA Model-https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+ 
    
-   Our goal is to predict the future Car Sales uisng the ARIMA Model.
-   
+#   The dataset is available in the dataset folder.
